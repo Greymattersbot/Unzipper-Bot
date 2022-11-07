@@ -1,8 +1,8 @@
 {
     "this_lang": "en",
 
-    "start": "Hi **{}**, I'm **Nexa Unzipper Bot** 😇!\n\n`An open-source bot that can extract archives like zip, rar, tar etc.`\n\n**Made with ❤️ by @NexaBotsUpdates**",
-    "about": "**About Nexa Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:** [Itz-fork](https://github.com/Itz-fork)\n✘ **Source Code:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)\n\n\n**Made with ❤️ by @NexaBotsUpdates**",
+    "start": "Hi **{}**, I'm **Unzipper Bot** 😇!\n\n`An open-source bot that can extract archives like zip, rar, tar etc.`\n\n**Made with ❤️ by @GreyMatter_Bots**",
+    "about": "**About Nexa Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:** [GreyMatter's](https://t.me/GreyMatter_Owner)\n✘ **Source Code:** [Unzipper-Bot](https://github.com/GreyMattersBot/Unzipper-Bot)\n\n\n**Made with ❤️ by @GreyMatters_Bot**",
     
     "processing": "`Processing ⚙️...`",
     "refreshing": "`Refreshing ⏳...`",
@@ -19,17 +19,17 @@
     
     "ok_backup": "**Backup successfull ✅!** \n\n**Link 🔗:** {}",
     "ok_download": "**Successfully downloaded ✅!**\n\n**📂 File name:** `{}`\n**⬇️ Downloaded in:** `{}`",
-    "ok_extract": "**Successfully extracted ✅!**\n\n**🕐 Extracted in:** `{}`\n\n\n**Made with ❤️ by @NexaBotsUpdates**",
+    "ok_extract": "**Successfully extracted ✅!**\n\n**🕐 Extracted in:** `{}`\n\n\n**Made with ❤️ by @GreyMatters_Bot**",
     "ok_upload": "**Successfully uploaded ✅!**\n\n**📂 File name:** `{}`\n**⬆️ Uploaded in:** `{}`",
-    "ok_upload_basic": "**Successfully uploaded ✅!** \n\n **Join @NexaBotsUpdates ❤️**",
+    "ok_upload_basic": "**Successfully uploaded ✅!** \n\n **Join @GreyMatters_Bot ❤️**",
     "ok_saving_thumb": "**Successfully saved the thumbnail ✅!**",
     "ok_deleting_thumb": "**Successfully deleted the thumbnail ✅!**",
     "ok_ban": "**Successfully banned that user ✅!** \n\n**User ID:** `{}`",
     "ok_unban": "**Successfully unbanned that user ✅!** \n\n**User ID:** `{}`",
     "ok_wont_delete": "**Ah fine, I won't delete your files 😂!**",
     
-    "failed_main": "**Error Happend 😕!**\n\n**ERROR:** {}\n\n\n**Please report this at @Nexa_bots**",
-    "failed_extract": "**Extraction Failed 😕!**\n\n**What to do?**\n\n - `Please make sure archive isn't corrupted`\n - `Please make sure that you selected the right mode`\n - `May be Your archive format isn't supported 😔`\n\n**Please report this at @Nexa_bots**",
+    "failed_main": "**Error Happend 😕!**\n\n**ERROR:** {}\n\n\n**Please report this at @GreyMatters_Bots_Discussion**",
+    "failed_extract": "**Extraction Failed 😕!**\n\n**What to do?**\n\n - `Please make sure archive isn't corrupted`\n - `Please make sure that you selected the right mode`\n - `May be Your archive format isn't supported 😔`\n\n**Please report this at @GreyMatters_Bots_Discussion**",
     
     "no_thumb": "No thumbnails found. Please set one using `/set_thumb` command!",
     "no_userid": "`Give a user id!`",
