@@ -1,8 +1,8 @@
 {
     "this_lang": "es",
 
-    "start": "Hola **{}**, Soy **Nexa Unzipper Bot** 😇!\n\n`Un Bot de fuente abierta que puede extraer archivos como: zip, rar, tar etc.`\n\n**Hecho con ❤️ por @NexaBotsUpdates**",
-    "about": "**Acerca de Nexa Unzipper Bot,**\n\n✘ **Versión:** `{}`\n✘ **Lenguaje:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Desarrollador:** [Itz-fork](https://github.com/Itz-fork)\n✘ **Fuente de código:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)\n\n\n**Hecho con ❤️ por @NexaBotsUpdates**",
+    "start": "Hola **{}**, Soy **Unzipper Bot** 😇!\n\n`Un Bot de fuente abierta que puede extraer archivos como: zip, rar, tar etc.`\n\n**Hecho con ❤️ por @GreyMatters_Bot**",
+    "about": "**Acerca de Nexa Unzipper Bot,**\n\n✘ **Versión:** `{}`\n✘ **Lenguaje:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Desarrollador:** [GreyMatter's](https://t.me/GreyMatter_Owner)\n✘ **Fuente de código:** [Unzipper-Bot](https://github.com/GreyMattersBot/Unzipper-Bot)\n\n\n**Hecho con ❤️ por @GreyMatters_Bot**",
     
     "processing": "`Procesando ⚙️...`",
     "refreshing": "`Refrescando ⏳...`",
@@ -19,17 +19,17 @@
     
     "ok_backup": "**¡Copia de seguridad exitosa ✅!** \n\n**Enlace 🔗:** {}",
     "ok_download": "**¡Descarga exitosa ✅!**\n\n**📂 Nombre del archivo:** `{}`\n**⬇️ Descargado en:** `{}`",
-    "ok_extract": "**¡Extraído exitosamente ✅!**\n\n**🕐 Extraído en:** `{}`\n\n\n**Hecho con ❤️ por @NexaBotsUpdates**",
+    "ok_extract": "**¡Extraído exitosamente ✅!**\n\n**🕐 Extraído en:** `{}`\n\n\n**Hecho con ❤️ por @GreyMatters_Bot**",
     "ok_upload": "**¡Subido exitosamente✅!**\n\n**📂 Nombre del archivo:** `{}`\n**⬆️ Subido en:** `{}`",
-    "ok_upload_basic": "**¡Subido exitosamente ✅!** \n\n *Únete a @NexaBotsUpdates ❤️**",
+    "ok_upload_basic": "**¡Subido exitosamente ✅!** \n\n *Únete a @GreyMatters_Bot ❤️**",
     "ok_saving_thumb": "**¡Miniatura guardada exitosamente ✅!**",
     "ok_deleting_thumb": "**Miniatura borrada exitosamente ✅!**",
     "ok_ban": "**Usuario baneado exitosamente ✅!** \n\n**ID del usuario:** `{}`",
     "ok_unban": "**Usuario desbaneado exitosamente ✅!** \n\n**ID del usuario:** `{}`",
     "ok_wont_delete": "**Oh genial, No borraré tus archivos 😂!**",
     
-    "failed_main": "**Ocurrió un error 😕!**\n\n**ERROR:** {}\n\n\n**Por favor repórtalo a @Nexa_bots**",
-    "failed_extract": "**Extracción fallida 😕!**\n\n**Que hacer?**\n\n - `Por favor, asegúrate de que el archivo no esté corrupto`\n - `Por favor, asegúrate de que seleccionaste el modo correcto`\n - `Pueda que tu archivo no sea soportado😔`\n\n**Por favor repórtalo a @Nexa_bots**",
+    "failed_main": "**Ocurrió un error 😕!**\n\n**ERROR:** {}\n\n\n**Por favor repórtalo a @GreyMatters_Bots_Discussion**",
+    "failed_extract": "**Extracción fallida 😕!**\n\n**Que hacer?**\n\n - `Por favor, asegúrate de que el archivo no esté corrupto`\n - `Por favor, asegúrate de que seleccionaste el modo correcto`\n - `Pueda que tu archivo no sea soportado😔`\n\n**Por favor repórtalo a @GreyMatters_Bots_Discussion**",
     
     "no_thumb": "¡Miniatura no encontrada. Establece una con el comando `/set_thumb`!",
     "no_userid": "`¡Pon una ID de usuario!`",
