@@ -30,7 +30,7 @@ class PatchMethods:
         # Checking if user is banned
         is_banned = await is_user_in_bdb(int(message.from_user.id))
         if is_banned:
-            await message.reply("**Sorry You're Banned!** \n\nReport this at @Nexa_bots if you think this is a mistake")
+            await message.reply("**Sorry You're Banned!** \n\nReport this at @GreyMatters_Bots_Discussion if you think this is a mistake")
             raise UserIsBanned
         # Chacking if user already in db
         is_in_db = await is_user_in_db(int(message.from_user.id))
